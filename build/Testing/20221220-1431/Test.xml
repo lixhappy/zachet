@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20221220-1431-Experimental"
+	Name="fedora"
+	Generator="ctest-3.25.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="12.2.1"
+	OSName="Linux"
+	Hostname="fedora"
+	OSRelease="6.0.12-300.fc37.x86_64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu Dec 8 16:58:47 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="96"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="15547"
+	TotalPhysicalMemory="7356"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3992.68"
+	>
+	<Testing>
+		<StartDateTime>Dec 20 23:43 MSK</StartDateTime>
+		<StartTestTime>1671569003</StartTestTime>
+		<TestList>
+			<Test>./POLY.linked_test</Test>
+			<Test>./TEST_TEST.testing_test</Test>
+			<Test>./MATRIX.linked_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>POLY.linked_test</Name>
+			<Path>.</Path>
+			<FullName>./POLY.linked_test</FullName>
+			<FullCommandLine>/home/lixhappy/codes/cpp/zachet/build/tests "--gtest_filter=POLY.linked_test" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00189629</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/lixhappy/codes/cpp/zachet/build/tests "--gtest_filter=POLY.linked_test" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkE1rwzAMhu/+FTo2h8TdddDDYKOHjbak22GEEFxHTUwd29jKvn794qSUdnRjOkm8r6RHyntjlGmgE8rMEth72wFvbYdcq49WOPfJpa0xcOkc/xKyReK7XumaVzW6wBtrG42EgdLg5VnJxzJmVZydSclWlvAWlqMFngcF9koTeljAZv30mmllDlhXsYcVi1OUkB8hb4DGrgh5zEOvCDNWpKcoYantTuhJR/OmvDUdmsGLlPbuh/l8ZqRgBeQvKxijvMI1KbB+vKLCbA5dSP5eMJmALAmdsP+REwqf1vbdXP7lt3+AFya73DNwb+6224f7eNXkzdg3Ut6hQA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>TEST_TEST.testing_test</Name>
+			<Path>.</Path>
+			<FullName>./TEST_TEST.testing_test</FullName>
+			<FullCommandLine>/home/lixhappy/codes/cpp/zachet/build/tests "--gtest_filter=TEST_TEST.testing_test" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00192283</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/lixhappy/codes/cpp/zachet/build/tests "--gtest_filter=TEST_TEST.testing_test" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUE1rwzAMvftX6NgcEm/XQQ+DlR4G3UiyUyjBddTE4NjGVvb16xcnJbSDQHWwJd6T9J7ywRhlWuiFMpsEzt72wDvbI9fquxPO/XBpGwxcOsd/heyQ+GlQuuF1gy7w1tpWI2GgNHh5VfKpjFkdZ2dSsoMlfIL9RIFyROCsNKGHLZS7oqzjk8WOUVAdf1ZtlzhCfpH6CDT1RqmXPAyKMGNVusQR9tqehJ5xNJ/KW9OjGblI6eD+ka9nLlpYBfnHAaY4rkqccXh7XeXA5gH6kNyxcWYCWRI6Yff5IRQ+beyXub3W2pXAC5Pd7hktvD8Xxe4l2py5GfsDvZyq3A==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>MATRIX.linked_test</Name>
+			<Path>.</Path>
+			<FullName>./MATRIX.linked_test</FullName>
+			<FullCommandLine>/home/lixhappy/codes/cpp/zachet/build/tests "--gtest_filter=MATRIX.linked_test" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00378427</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/lixhappy/codes/cpp/zachet/build/tests "--gtest_filter=MATRIX.linked_test" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUE1rwzAMvftX6NgcEm/XQQ+FjTLGupF2MAghuI6amDm2sZV9/folcSntaNneSeI96T0p741RpoFOKDNLYOdtB7y1HXKtPlvh3BeXtsbApXP8W8gWiW97pWte1egCb6xtNBIGSoOXRy2f2rGqxt2ZlGxlCW9gOUlgMzCwU5rQwxweF5v8/jXTyrxhXY1TrJgfUEK+j3kNNM2NMfd16BVhxor0gBKW2m6Fjjyad+Wt6dAMWqS0d7/ExztjDlZA/rKCCeXZbJGDp4ezPMyuoAvJXzZRBmRJ6IT97wJC4dPafpjT/1z6C3hhslOfIfvzYr2+ux1vi9qM/QCOwqQV====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 20 23:43 MSK</EndDateTime>
+		<EndTestTime>1671569003</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

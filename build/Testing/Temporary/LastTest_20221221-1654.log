@@ -1,0 +1,192 @@
+Start testing: Dec 22 02:20 MSK
+----------------------------------------------------------
+3/7 Testing: MATRIX.equal
+3/7 Test: MATRIX.equal
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=MATRIX.equal" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"MATRIX.equal" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MATRIX.equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MATRIX
+[ RUN      ] MATRIX.equal
+[       OK ] MATRIX.equal (0 ms)
+[----------] 1 test from MATRIX (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MATRIX.equal" end time: Dec 22 02:20 MSK
+"MATRIX.equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: MATRIX.get_el
+4/7 Test: MATRIX.get_el
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=MATRIX.get_el" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"MATRIX.get_el" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MATRIX.get_el
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MATRIX
+[ RUN      ] MATRIX.get_el
+[       OK ] MATRIX.get_el (0 ms)
+[----------] 1 test from MATRIX (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MATRIX.get_el" end time: Dec 22 02:20 MSK
+"MATRIX.get_el" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: MATRIX.linked_test
+2/7 Test: MATRIX.linked_test
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=MATRIX.linked_test" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"MATRIX.linked_test" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MATRIX.linked_test
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MATRIX
+[ RUN      ] MATRIX.linked_test
+[       OK ] MATRIX.linked_test (0 ms)
+[----------] 1 test from MATRIX (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MATRIX.linked_test" end time: Dec 22 02:20 MSK
+"MATRIX.linked_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: MATRIX.get_col
+5/7 Test: MATRIX.get_col
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=MATRIX.get_col" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"MATRIX.get_col" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MATRIX.get_col
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MATRIX
+[ RUN      ] MATRIX.get_col
+[       OK ] MATRIX.get_col (0 ms)
+[----------] 1 test from MATRIX (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MATRIX.get_col" end time: Dec 22 02:20 MSK
+"MATRIX.get_col" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: POLY.linked_test
+7/7 Test: POLY.linked_test
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=POLY.linked_test" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"POLY.linked_test" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = POLY.linked_test
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from POLY
+[ RUN      ] POLY.linked_test
+[       OK ] POLY.linked_test (0 ms)
+[----------] 1 test from POLY (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"POLY.linked_test" end time: Dec 22 02:20 MSK
+"POLY.linked_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/7 Testing: TEST_TEST.testing_test
+1/7 Test: TEST_TEST.testing_test
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=TEST_TEST.testing_test" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"TEST_TEST.testing_test" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TEST_TEST.testing_test
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TEST_TEST
+[ RUN      ] TEST_TEST.testing_test
+[       OK ] TEST_TEST.testing_test (0 ms)
+[----------] 1 test from TEST_TEST (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TEST_TEST.testing_test" end time: Dec 22 02:20 MSK
+"TEST_TEST.testing_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: MATRIX.get_row
+6/7 Test: MATRIX.get_row
+Command: "/home/lixhappy/codes/cpp/zachet/build/tests" "--gtest_filter=MATRIX.get_row" "--gtest_also_run_disabled_tests"
+Directory: /home/lixhappy/codes/cpp/zachet/build
+"MATRIX.get_row" start time: Dec 22 02:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/lixhappy/codes/cpp/zachet/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MATRIX.get_row
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MATRIX
+[ RUN      ] MATRIX.get_row
+[       OK ] MATRIX.get_row (0 ms)
+[----------] 1 test from MATRIX (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MATRIX.get_row" end time: Dec 22 02:20 MSK
+"MATRIX.get_row" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 22 02:20 MSK

@@ -1,0 +1,5 @@
+if(EXISTS "/home/lixhappy/codes/cpp/zachet/build/test[1]_tests.cmake")
+  include("/home/lixhappy/codes/cpp/zachet/build/test[1]_tests.cmake")
+else()
+  add_test(test_NOT_BUILT test_NOT_BUILT)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tests.dir/tests/test.cpp.o CMakeFiles/tests.dir/tests/quick_sort.cpp.o CMakeFiles/tests.dir/matrix/matrix.cpp.o CMakeFiles/tests.dir/polynomial/poly.cpp.o -o tests  lib/libgtest_main.a lib/libgtest.a 
